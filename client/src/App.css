@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.account{
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  padding: 20px;
+  background: #fff;
+  border: solid #E3E3E3 1px;
+  border-radius: 20px;
+}
+
+.banner{
+  height: 50vh;
+}
